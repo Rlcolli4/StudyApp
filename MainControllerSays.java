@@ -3,7 +3,7 @@ package main;
 import java.util.HashMap;
 
 import model.StudyCards;
-
+//THis file is part of the "main" package.
 public class MainControllerSays {
 	public static HashMap<String, StudyCards> commands = new HashMap<String, String>();
 	/*
