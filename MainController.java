@@ -1,5 +1,5 @@
 package main;
-
+//THis file is part of the "main" package.
 import java.util.Scanner;
 
 import model.StudyCards;
