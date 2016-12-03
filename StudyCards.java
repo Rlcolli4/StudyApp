@@ -7,7 +7,7 @@ import java.util.Set;
 import main.MainController;
 
 import main.MainControllerSays;
-
+//THis file is part of the "model" package.
 public class StudyCards {
 	public HashMap<String, String> biology = new HashMap<String, String>();
 	public HashMap<String, String> math = new HashMap<String, String>();
